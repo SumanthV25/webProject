@@ -15,7 +15,7 @@ h2{
     font-family: cursive;
 }
 .selectcity{
-    background-image: url("/Images/City.png");
+    background-image: url("../Images/City.png");
     background-position: center;
     background-repeat: no-repeat;
 }
