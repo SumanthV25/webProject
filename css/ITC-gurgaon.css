@@ -2,7 +2,7 @@
     
     body{
         
-        background-image: url("/Images/bg31.png");
+        background-image: url("../Images/bg31.png");
         font-family: cursive;
         background-attachment: fixed; 
         background-repeat:no-repeat;
