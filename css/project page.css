@@ -1,0 +1,152 @@
+h1{
+ font-size: 100px;
+ color:white;
+position: middle;
+border:3px 5px solid white;
+text-align: center;
+margin-top: -100px;
+font-family: cursive ;
+}
+h2{
+    font-size: 45px;
+    padding: 10px;
+    margin: 0%;
+    margin-left: 120px;
+    font-family: cursive;
+}
+.selectcity{
+    background-image: url("/Images/City.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.Delhi{
+    
+    color: white;
+    margin-left: 600px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+.Gurgaon{
+    margin-left: 150px;
+}
+body{
+        background: url("/Images/bgh.png");
+        background-attachment: fixed; 
+        background-repeat:no-repeat;
+        /* background-repeat:repeat-y; */
+        background-size:cover;   
+        background-position: center;
+    }
+p{
+    font-size: 30px;
+}
+a{
+    font-size: 30px;
+    color: white;
+
+}
+.loginbox{
+    width: 600px;
+    height: 750px;
+    background:transparent;
+    box-sizing: border-box;
+    border: solid white;
+    color: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px;
+    opacity: 0.8;
+    font-family: cursive;
+}
+.avatar{
+    
+    width: 100px;
+    margin-left: 175px;
+    height: 100px;
+    border-radius: 50%;
+    top: 0px;
+} 
+.loginbox input[type="name"], input[type="password"]
+{
+    font-family:cursive;
+    font-size:25px;
+    border: none;
+    background: transparent;
+    outline: none;
+    color: white;
+    border-bottom: 1px solid white;
+}
+.loginbox input[type="submit"]{
+    cursor: pointer;
+    background-color: orange;
+    border: orange;
+    outline: none;
+    height: 50px;
+    width:200px ;
+    border-radius: 30px;
+    color:white;
+    font-size: 30px;
+    font-family: cursive;
+    margin-left: 80px;
+}
+
+.loginbox input[type="submit"]:hover
+{
+    background-color:orangered;
+    color: white;
+}
+.box{
+    width: 600px;
+    height: 800px;
+    background:transparent;
+    box-sizing: border-box;
+    border: solid white;
+    color: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px;
+    font-family: cursive;
+    }
+.box input[type="submit"]{
+
+        cursor: pointer;
+        background-color: orange;
+        height: 50px;
+        width:200px ;
+        border-radius: 30px;
+        color:white;
+        font-size: 30px;
+        font-family: cursive;
+        margin-left: 135px;
+    }
+.box input[type="submit"]:hover
+{
+    background-color:orangered;
+    color:white;
+}
+.box input[type="name"], input[type="password"]
+{
+    font-family: cursive;
+    font-size:25px;
+    border: none;
+    background: transparent;
+    outline: none;
+    color: white;
+    border-bottom: 1px solid white;
+}
+.back{
+   width:200px;
+
+}
+.deco{
+    cursor: pointer;
+}
+.deco:hover{
+   color: orange;
+}
