@@ -75,7 +75,7 @@
     margin-left: 67px;
 }
 body{
-    background-image: url("/Images/main1.png");
+    background-image: url("../Images/main1.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
